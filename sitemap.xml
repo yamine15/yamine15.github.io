@@ -1,0 +1,15 @@
+xml
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://sitemaps.org"
+        xmlns:image="http://google.com">
+  <url>
+    <loc>https://yamine15.github.io/</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://github.io</image:loc>
+      <image:title>Yamine Bouzembrak, PhD - Associate Professor at Wageningen University &amp; Research</image:title>
+    </image:image>
+  </url>
+</urlset>
