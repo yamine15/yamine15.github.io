@@ -1,5 +1,0 @@
-text
-User-agent: *
-Allow: /
-
-Sitemap: https://yamine15.github.io/sitemap.xml
